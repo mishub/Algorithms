@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 # Sachin edits it
+# Nitin edits it
 # Program to find the number of duplicate elements in an array
 
 def count_duplicate(arr):
