@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-# Program to alternately merge the elements of two given linked lists into a single list.
+# Program to alternately merge the elements of 2 given linked lists into a single list......
 
 import initialize
 
